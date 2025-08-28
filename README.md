@@ -1,10 +1,10 @@
-<img src="https://media.tenor.com/_Iw9VZrRHPEAAAAM/hacker-ascii.gif" width="375" height="400" alt="message">
-
-- 👋 Hi, I’m C CraZe Hckz
 <!---
-C-scripting101/C-scripting101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+HckZ-CraZe-C/HckZ-CraZe-C is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+- 👋 Hi, I’m C CraZe Hckz
+  
+<img src="https://media.tenor.com/_Iw9VZrRHPEAAAAM/hacker-ascii.gif" width="375" height="400" alt="message">
 
 <img src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" width="375" height="400" alt="message">
 
